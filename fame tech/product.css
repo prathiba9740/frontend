@@ -1,0 +1,40 @@
+nav a{
+	float: left;
+	width:10%;
+	text-align: right;	
+	color: white;
+	padding: 10px;
+	background-color: blue;
+
+	
+}
+.product{
+	float: left;
+	width: 20%;
+}
+.main{
+float: right;
+}
+#sub1{
+	float: left;
+	width: 30%;		
+}
+#sub2{  
+	float: left;
+	margin-top: 30%;
+    
+}
+
+#align{text-align: left;
+margin-left: 10%;
+}
+#align1{text-align: left;
+margin-right: 10%;
+}
+#align2{text-align: left;
+margin-left: 10%;
+}
+
+
+
+
